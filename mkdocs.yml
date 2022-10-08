@@ -1,6 +1,7 @@
 site_name: chainehif_DIY
 nav:
     - Readme: README.md
+    - Installation du software: software_install.md
         
 theme:
     name: material
